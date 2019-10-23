@@ -25,7 +25,7 @@ public class PageController {
 
     @RequestMapping("hello")
     public String hello(Model model) {
-      /*  int i=1/0;*/
+ /*     int i=1/0;*/
         /*自定义日志测试*/
         /*日志文件的主配置文件中设置的日志级别将会默认为此级别以上的日志将全部输出*/
         /*日志级别 debug info warn errer*/
